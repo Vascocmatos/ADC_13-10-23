@@ -1,2 +1,2 @@
 print("Olá mundo novo")
-Ficheiro modificado pelo Paulo
+print("ola a partir do pycharm")
